@@ -1,0 +1,99 @@
+<section style="margin-top: 5%; margin-bottom: 10px; background-color: white">
+  <form
+    fxLayout="column"
+    fxLayoutAlign="center center"
+    #f="ngForm"
+    (ngSubmit)="registrarProfesor(f)"
+    fxLayoutGap="15px"
+    fx
+  >
+    <mat-form-field style="width: 30%">
+      <mat-label>Ingrese Nombre del Profesor</mat-label>
+      <input
+        type="text"
+        [(ngModel)]="nombreForm"
+        name="nombre"
+        required
+        placeholder="Ingrese nombre"
+        matInput
+      />
+      <mat-error>Debe ingresar un nombre</mat-error>
+    </mat-form-field>
+
+    <mat-form-field style="width: 30%">
+      <mat-label>Ingrese Apellidos</mat-label>
+      <input
+        type="text"
+        [(ngModel)]="apellidoForm"
+        name="apellidos"
+        required
+        placeholder="Ingrese apellidos"
+        matInput
+      />
+      <mat-error>Debe ingresar los apellidos</mat-error>
+    </mat-form-field>
+
+    <mat-form-field style="width: 30%">
+      <mat-label>Ingrese su Edad</mat-label>
+      <input
+        type="text"
+        [(ngModel)]="edadForm"
+        name="edad"
+        required
+        placeholder="Ingrese edad"
+        matInput
+      />
+      <mat-error>Debe ingresar su Edad</mat-error>
+    </mat-form-field>
+
+    <mat-form-field style="width: 30%">
+      <mat-label>Ingrese la fecha de incorporación</mat-label>
+      <input
+        type="text"
+        [(ngModel)]="fechaIncForm"
+        [matDatepicker]="picker"
+        name="edad"
+        required
+        placeholder="Ingrese fecha de incorporación"
+        matInput
+      />
+      <mat-datepicker-toggle matSuffix [for]="picker"></mat-datepicker-toggle>
+      <mat-datepicker #picker></mat-datepicker>
+      <mat-error>Debe ingresar una fecha</mat-error>
+    </mat-form-field>
+
+    <mat-form-field style="width: 30%">
+      <mat-label>Ingrese una materia</mat-label>
+      <!--ingrese o seleccione?-->
+      <mat-select
+        placeholder="Seleccione una materia"
+        [(ngModel)]="selectMateriaId"
+        name="materia"
+        (selectionChange)="selected($event)"
+      >
+        <mat-option
+          *ngFor="let materia of materias"
+          [value]="materia.materiaId"
+          >{{ materia.nombre + " - " + materia.descripcion }}</mat-option
+        >
+      </mat-select>
+      <mat-error>Debe ingresar una materia</mat-error>
+    </mat-form-field>
+
+    <button
+      type="submit"
+      mat-raised-button
+      color="primary"
+      [disabled]="f.invalid"
+    >
+      Guardar
+    </button>
+    <a
+      [routerLink]="['/listado-materias']"
+      routerLinkActive="router-link-active"
+    >
+      Ver listado de materias y profesores</a
+    >
+    <router-outlet></router-outlet>
+  </form>
+</section>

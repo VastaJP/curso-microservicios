@@ -1,0 +1,97 @@
+<div style="padding-bottom: 2%;">
+  <h1>Listado de Materias</h1>
+  <!-- <div class="listMateria" *ngFor="let mat of materias">{{mat}}</div> -->
+
+  <!-- <div class="listProfesores" *ngFor="let profe of profesores">{{profe}}</div> -->
+
+  <div fxLayoutAlign="center center">
+    <mat-form-field fxFlex="60%">
+      <input
+        matInput
+        type="text"
+        (keyup)="hacerFiltroMaterias($event)"
+        placeholder="Ingrese texto"
+      />
+    </mat-form-field>
+  </div>
+  <mat-table [dataSource]="dataSourceMateria">
+    <ng-container matColumnDef="Nombre">
+      <mat-header-cell *matHeaderCellDef>Nombre</mat-header-cell>
+      <mat-cell *matCellDef="let element">{{ element.descripcion }}</mat-cell>
+    </ng-container>
+
+    <ng-container matColumnDef="Descripcion">
+      <mat-header-cell *matHeaderCellDef>Descripcion</mat-header-cell>
+      <mat-cell *matCellDef="let element">{{ element.descripcion }}</mat-cell>
+    </ng-container>
+
+    <ng-container matColumnDef="ProfesorId">
+      <mat-header-cell *matHeaderCellDef>ProfesorId</mat-header-cell>
+      <mat-cell *matCellDef="let element">{{ element.profesorId }}</mat-cell>
+    </ng-container>
+
+    <mat-header-row
+      *matHeaderRowDef="desplegarColumnasMaterias"
+    ></mat-header-row>
+    <mat-row *matRowDef="let row; columns: desplegarColumnasMaterias"></mat-row>
+  </mat-table>
+</div>
+
+<div>
+  <h1>Listado de Profesores</h1>
+
+  <div fxLayoutAlign="center center">
+    <mat-form-field fxFlex="60%">
+      <input
+        matInput
+        type="text"
+        (keyup)="hacerFiltroProfesor($event)"
+        placeholder="Ingrese texto"
+      />
+    </mat-form-field>
+  </div>
+  <mat-table [dataSource]="dataSourceProfesor">
+    <ng-container matColumnDef="Nombre">
+      <mat-header-cell *matHeaderCellDef>Nombre</mat-header-cell>
+      <mat-cell *matCellDef="let element">{{ element.nombre }}</mat-cell>
+    </ng-container>
+
+    <ng-container matColumnDef="Apellido">
+      <mat-header-cell *matHeaderCellDef>Apellido</mat-header-cell>
+      <mat-cell *matCellDef="let element">{{ element.apellido }}</mat-cell>
+    </ng-container>
+
+    <ng-container matColumnDef="Edad">
+      <mat-header-cell *matHeaderCellDef>Edad</mat-header-cell>
+      <mat-cell *matCellDef="let element">{{ element.edad }}</mat-cell>
+    </ng-container>
+
+    <ng-container matColumnDef="FechaIncorporacion">
+      <mat-header-cell *matHeaderCellDef>FechaIncorporacion</mat-header-cell>
+      <mat-cell *matCellDef="let element">{{
+        element.fechaIncorporacion
+      }}</mat-cell>
+    </ng-container>
+
+    <ng-container matColumnDef="MateriaId">
+      <mat-header-cell *matHeaderCellDef>Materia</mat-header-cell>
+      <mat-cell *matCellDef="let element">{{ element.materiaId }}</mat-cell>
+    </ng-container>
+
+    <mat-header-row
+      *matHeaderRowDef="desplegarColumnasProfesores"
+    ></mat-header-row>
+    <mat-row
+      *matRowDef="let row; columns: desplegarColumnasProfesores"
+    ></mat-row>
+  </mat-table>
+</div>
+
+<div>
+<a [routerLink]="['/listado-alumnos']" routerLinkActive="router-link-active">
+  Ver los alumnos en esta materia</a
+>
+</div>
+<router-outlet></router-outlet>
+
+<!-- <h2 id = "empty">No se encontró ninguna materia</h2> -->

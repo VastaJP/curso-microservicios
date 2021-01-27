@@ -1,0 +1,22 @@
+.listMateria{
+  border: 2px solid yellow;
+  padding: 12px;
+  background-color: lightblue;
+}
+.listProfesores{
+  border: 2px solid yellow;
+  padding: 12px;
+  background-color: lightblue;
+}
+
+h1 {
+  text-align: center;
+  padding: 2%;
+}
+
+div{
+  padding: 1%;
+  text-align: center;
+  background-color: rgb(216, 216, 216);
+}
+

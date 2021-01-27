@@ -1,0 +1,55 @@
+<div>
+
+  <h1>Listado de Alumnos</h1>
+
+  <div fxLayoutAlign="center center">
+    <mat-form-field fxFlex="60%">
+      <input
+        matInput
+        type="text"
+        (keyup)="hacerFiltro($event)"
+        placeholder="Ingrese texto"
+      />
+    </mat-form-field>
+  </div>
+
+  <mat-table [dataSource]="dataSource">
+    <ng-container matColumnDef="Nombre">
+      <mat-header-cell *matHeaderCellDef>Nombre</mat-header-cell>
+      <mat-cell *matCellDef="let element">{{ element.nombre }}</mat-cell>
+    </ng-container>
+
+    <ng-container matColumnDef="Apellido">
+      <mat-header-cell *matHeaderCellDef>Apellido</mat-header-cell>
+      <mat-cell *matCellDef="let element">{{ element.apellido }}</mat-cell>
+    </ng-container>
+
+    <ng-container matColumnDef="FechaNacimiento">
+      <mat-header-cell *matHeaderCellDef>FechaNacimiento</mat-header-cell>
+      <mat-cell *matCellDef="let element">{{
+        element.fechaNacimiento
+      }}</mat-cell>
+    </ng-container>
+
+    <ng-container matColumnDef="Materia">
+      <mat-header-cell *matHeaderCellDef>Materia</mat-header-cell>
+      <mat-cell *matCellDef="let element">{{ element.materiaId }}</mat-cell>
+    </ng-container>
+
+    <mat-header-row *matHeaderRowDef="desplegarColumnas"></mat-header-row>
+    <mat-row *matRowDef="let row; columns: desplegarColumnas"></mat-row>
+  </mat-table>
+
+  <br />
+  <br />
+
+  <a [routerLink]="['/listado-materias']" routerLinkActive="router-link-active">
+    Ver las materias de este alumno</a
+  >
+  <br>
+  <a [routerLink]="['/registro-alumno']" routerLinkActive="router-link-active">
+    Registrar un nuevo alumno</a
+  >
+</div>
+
+<router-outlet></router-outlet>

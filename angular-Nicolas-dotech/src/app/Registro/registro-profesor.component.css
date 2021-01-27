@@ -1,0 +1,10 @@
+mat-form-field{
+  width: 300px;
+}
+form {
+  background-color: rgb(216, 216, 216);
+}
+form-mat-label{
+  color: black 3px solid;
+
+}
