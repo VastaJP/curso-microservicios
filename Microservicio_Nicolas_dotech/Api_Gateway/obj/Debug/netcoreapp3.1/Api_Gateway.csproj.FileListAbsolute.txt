@@ -1,0 +1,64 @@
+C:\code5\Microservicios_Nicolas\Microservicio_Nicolas_dotech\Api_Gateway\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\code5\Microservicios_Nicolas\Microservicio_Nicolas_dotech\Api_Gateway\bin\Debug\netcoreapp3.1\appsettings.json
+C:\code5\Microservicios_Nicolas\Microservicio_Nicolas_dotech\Api_Gateway\bin\Debug\netcoreapp3.1\Api_Gateway.exe
+C:\code5\Microservicios_Nicolas\Microservicio_Nicolas_dotech\Api_Gateway\bin\Debug\netcoreapp3.1\Api_Gateway.deps.json
+C:\code5\Microservicios_Nicolas\Microservicio_Nicolas_dotech\Api_Gateway\bin\Debug\netcoreapp3.1\Api_Gateway.runtimeconfig.json
+C:\code5\Microservicios_Nicolas\Microservicio_Nicolas_dotech\Api_Gateway\bin\Debug\netcoreapp3.1\Api_Gateway.runtimeconfig.dev.json
+C:\code5\Microservicios_Nicolas\Microservicio_Nicolas_dotech\Api_Gateway\bin\Debug\netcoreapp3.1\Api_Gateway.dll
+C:\code5\Microservicios_Nicolas\Microservicio_Nicolas_dotech\Api_Gateway\bin\Debug\netcoreapp3.1\Api_Gateway.pdb
+C:\code5\Microservicios_Nicolas\Microservicio_Nicolas_dotech\Api_Gateway\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\code5\Microservicios_Nicolas\Microservicio_Nicolas_dotech\Api_Gateway\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\code5\Microservicios_Nicolas\Microservicio_Nicolas_dotech\Api_Gateway\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+C:\code5\Microservicios_Nicolas\Microservicio_Nicolas_dotech\Api_Gateway\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\code5\Microservicios_Nicolas\Microservicio_Nicolas_dotech\Api_Gateway\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\code5\Microservicios_Nicolas\Microservicio_Nicolas_dotech\Api_Gateway\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\code5\Microservicios_Nicolas\Microservicio_Nicolas_dotech\Api_Gateway\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\code5\Microservicios_Nicolas\Microservicio_Nicolas_dotech\Api_Gateway\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\code5\Microservicios_Nicolas\Microservicio_Nicolas_dotech\Api_Gateway\bin\Debug\netcoreapp3.1\Ocelot.dll
+C:\code5\Microservicios_Nicolas\Microservicio_Nicolas_dotech\Api_Gateway\obj\Debug\netcoreapp3.1\Api_Gateway.AssemblyInfoInputs.cache
+C:\code5\Microservicios_Nicolas\Microservicio_Nicolas_dotech\Api_Gateway\obj\Debug\netcoreapp3.1\Api_Gateway.AssemblyInfo.cs
+C:\code5\Microservicios_Nicolas\Microservicio_Nicolas_dotech\Api_Gateway\obj\Debug\netcoreapp3.1\Api_Gateway.csproj.CoreCompileInputs.cache
+C:\code5\Microservicios_Nicolas\Microservicio_Nicolas_dotech\Api_Gateway\obj\Debug\netcoreapp3.1\Api_Gateway.MvcApplicationPartsAssemblyInfo.cs
+C:\code5\Microservicios_Nicolas\Microservicio_Nicolas_dotech\Api_Gateway\obj\Debug\netcoreapp3.1\Api_Gateway.MvcApplicationPartsAssemblyInfo.cache
+C:\code5\Microservicios_Nicolas\Microservicio_Nicolas_dotech\Api_Gateway\obj\Debug\netcoreapp3.1\staticwebassets\Api_Gateway.StaticWebAssets.Manifest.cache
+C:\code5\Microservicios_Nicolas\Microservicio_Nicolas_dotech\Api_Gateway\obj\Debug\netcoreapp3.1\staticwebassets\Api_Gateway.StaticWebAssets.xml
+C:\code5\Microservicios_Nicolas\Microservicio_Nicolas_dotech\Api_Gateway\obj\Debug\netcoreapp3.1\scopedcss\bundle\Api_Gateway.styles.css
+C:\code5\Microservicios_Nicolas\Microservicio_Nicolas_dotech\Api_Gateway\obj\Debug\netcoreapp3.1\Api_Gateway.RazorTargetAssemblyInfo.cache
+C:\code5\Microservicios_Nicolas\Microservicio_Nicolas_dotech\Api_Gateway\obj\Debug\netcoreapp3.1\Api_Gateway.csproj.CopyComplete
+C:\code5\Microservicios_Nicolas\Microservicio_Nicolas_dotech\Api_Gateway\obj\Debug\netcoreapp3.1\Api_Gateway.dll
+C:\code5\Microservicios_Nicolas\Microservicio_Nicolas_dotech\Api_Gateway\obj\Debug\netcoreapp3.1\Api_Gateway.pdb
+C:\code5\Microservicios_Nicolas\Microservicio_Nicolas_dotech\Api_Gateway\obj\Debug\netcoreapp3.1\Api_Gateway.genruntimeconfig.cache
+C:\code5\Microservicios_Nicolas\Microservicio_Nicolas_dotech\Api_Gateway\bin\Debug\netcoreapp3.1\ocelot.Json
+C:\code5\Microservicios_Nicolas\Microservicio_Nicolas_dotech\Api_Gateway\obj\Debug\netcoreapp3.1\Api_Gateway.csprojAssemblyReference.cache
+C:\Users\Juampi Vasta\Documents\Microservicios\Microservicio_Nicolas_dotech\Api_Gateway\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Juampi Vasta\Documents\Microservicios\Microservicio_Nicolas_dotech\Api_Gateway\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Juampi Vasta\Documents\Microservicios\Microservicio_Nicolas_dotech\Api_Gateway\bin\Debug\netcoreapp3.1\ocelot.Json
+C:\Users\Juampi Vasta\Documents\Microservicios\Microservicio_Nicolas_dotech\Api_Gateway\bin\Debug\netcoreapp3.1\Api_Gateway.exe
+C:\Users\Juampi Vasta\Documents\Microservicios\Microservicio_Nicolas_dotech\Api_Gateway\bin\Debug\netcoreapp3.1\Api_Gateway.deps.json
+C:\Users\Juampi Vasta\Documents\Microservicios\Microservicio_Nicolas_dotech\Api_Gateway\bin\Debug\netcoreapp3.1\Api_Gateway.runtimeconfig.json
+C:\Users\Juampi Vasta\Documents\Microservicios\Microservicio_Nicolas_dotech\Api_Gateway\bin\Debug\netcoreapp3.1\Api_Gateway.runtimeconfig.dev.json
+C:\Users\Juampi Vasta\Documents\Microservicios\Microservicio_Nicolas_dotech\Api_Gateway\bin\Debug\netcoreapp3.1\Api_Gateway.dll
+C:\Users\Juampi Vasta\Documents\Microservicios\Microservicio_Nicolas_dotech\Api_Gateway\bin\Debug\netcoreapp3.1\Api_Gateway.pdb
+C:\Users\Juampi Vasta\Documents\Microservicios\Microservicio_Nicolas_dotech\Api_Gateway\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Users\Juampi Vasta\Documents\Microservicios\Microservicio_Nicolas_dotech\Api_Gateway\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Juampi Vasta\Documents\Microservicios\Microservicio_Nicolas_dotech\Api_Gateway\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+C:\Users\Juampi Vasta\Documents\Microservicios\Microservicio_Nicolas_dotech\Api_Gateway\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Juampi Vasta\Documents\Microservicios\Microservicio_Nicolas_dotech\Api_Gateway\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Juampi Vasta\Documents\Microservicios\Microservicio_Nicolas_dotech\Api_Gateway\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\Juampi Vasta\Documents\Microservicios\Microservicio_Nicolas_dotech\Api_Gateway\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Juampi Vasta\Documents\Microservicios\Microservicio_Nicolas_dotech\Api_Gateway\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\Juampi Vasta\Documents\Microservicios\Microservicio_Nicolas_dotech\Api_Gateway\bin\Debug\netcoreapp3.1\Ocelot.dll
+C:\Users\Juampi Vasta\Documents\Microservicios\Microservicio_Nicolas_dotech\Api_Gateway\obj\Debug\netcoreapp3.1\Api_Gateway.csprojAssemblyReference.cache
+C:\Users\Juampi Vasta\Documents\Microservicios\Microservicio_Nicolas_dotech\Api_Gateway\obj\Debug\netcoreapp3.1\Api_Gateway.AssemblyInfoInputs.cache
+C:\Users\Juampi Vasta\Documents\Microservicios\Microservicio_Nicolas_dotech\Api_Gateway\obj\Debug\netcoreapp3.1\Api_Gateway.AssemblyInfo.cs
+C:\Users\Juampi Vasta\Documents\Microservicios\Microservicio_Nicolas_dotech\Api_Gateway\obj\Debug\netcoreapp3.1\Api_Gateway.csproj.CoreCompileInputs.cache
+C:\Users\Juampi Vasta\Documents\Microservicios\Microservicio_Nicolas_dotech\Api_Gateway\obj\Debug\netcoreapp3.1\Api_Gateway.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Juampi Vasta\Documents\Microservicios\Microservicio_Nicolas_dotech\Api_Gateway\obj\Debug\netcoreapp3.1\Api_Gateway.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Juampi Vasta\Documents\Microservicios\Microservicio_Nicolas_dotech\Api_Gateway\obj\Debug\netcoreapp3.1\staticwebassets\Api_Gateway.StaticWebAssets.Manifest.cache
+C:\Users\Juampi Vasta\Documents\Microservicios\Microservicio_Nicolas_dotech\Api_Gateway\obj\Debug\netcoreapp3.1\staticwebassets\Api_Gateway.StaticWebAssets.xml
+C:\Users\Juampi Vasta\Documents\Microservicios\Microservicio_Nicolas_dotech\Api_Gateway\obj\Debug\netcoreapp3.1\scopedcss\bundle\Api_Gateway.styles.css
+C:\Users\Juampi Vasta\Documents\Microservicios\Microservicio_Nicolas_dotech\Api_Gateway\obj\Debug\netcoreapp3.1\Api_Gateway.RazorTargetAssemblyInfo.cache
+C:\Users\Juampi Vasta\Documents\Microservicios\Microservicio_Nicolas_dotech\Api_Gateway\obj\Debug\netcoreapp3.1\Api_Gateway.csproj.CopyComplete
+C:\Users\Juampi Vasta\Documents\Microservicios\Microservicio_Nicolas_dotech\Api_Gateway\obj\Debug\netcoreapp3.1\Api_Gateway.dll
+C:\Users\Juampi Vasta\Documents\Microservicios\Microservicio_Nicolas_dotech\Api_Gateway\obj\Debug\netcoreapp3.1\Api_Gateway.pdb
+C:\Users\Juampi Vasta\Documents\Microservicios\Microservicio_Nicolas_dotech\Api_Gateway\obj\Debug\netcoreapp3.1\Api_Gateway.genruntimeconfig.cache

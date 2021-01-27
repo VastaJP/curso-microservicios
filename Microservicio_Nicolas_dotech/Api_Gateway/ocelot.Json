@@ -1,0 +1,120 @@
+﻿
+{
+  "Routes": [
+    {
+      "DownstreamPathTemplate": "/api/Alumno/GetAlumnos",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": "61103"
+        }
+      ],
+      // conecto cada endpoint:
+      //1
+      "UpstreamPathTemplate": "/Alumno/GetAlumnos", // endpoint
+      "UpstreamHttpMethod": [ "GET" ] // métodos que quiero poder ejecutar del endpoint
+    },
+
+    {
+      "DownstreamPathTemplate": "/api/Alumno/registrar", //todos los métodos que tengan esta ruta, van a procesarse para los métodos GET, POST UPDATE, DELETE
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": "61103"
+        }
+      ],
+      "UpstreamPathTemplate": "/Alumno/registrar", // lo que ve el cliente
+      "UpstreamHttpMethod": [ "POST" ]
+    },
+    {
+      "DownstreamPathTemplate": "/api/Alumno/{id}", //todos los métodos que tengan esta ruta, van a procesarse para los métodos GET, POST UPDATE, DELETE
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": "61103"
+        }
+      ],
+      "UpstreamPathTemplate": "/Alumno/{id}", // lo que ve el cliente
+      "UpstreamHttpMethod": [ "GET", "POST" ]
+     
+    },
+    {
+      // 2
+      "DownstreamPathTemplate": "/api/Materia/getMaterias",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": "58753"
+        }
+      ],
+      "UpstreamPathTemplate": "/Materia/getMaterias",
+      "UpstreamHttpMethod": [ "GET" ]
+    },
+    {
+      "DownstreamPathTemplate": "/api/Materia/registrar",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": "58753"
+        }
+      ],
+      "UpstreamPathTemplate": "/Materia/registrar",
+      "UpstreamHttpMethod": [ "POST" ]
+    },
+    {
+      "DownstreamPathTemplate": "/api/Materia/{id}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": "58753"
+        }
+      ],
+      "UpstreamPathTemplate": "/Materia/{id}",
+      "UpstreamHttpMethod": [ "GET", "POST" ]
+    },
+
+    {
+      // 3
+      "DownstreamPathTemplate": "/api/profesor/GetProfesores",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": "61816"
+        }
+      ],
+      "UpstreamPathTemplate": "/profesor/GetProfesores",
+      "UpstreamHttpMethod": [ "GET" ]
+    },
+    {
+      "DownstreamPathTemplate": "/api/profesor/registrar",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": "61816"
+        }
+      ],
+      "UpstreamPathTemplate": "/profesor/registrar",
+      "UpstreamHttpMethod": [ "POST" ]
+    },
+    {
+      "DownstreamPathTemplate": "/api/profesor/{id}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": "61816"
+        }
+      ],
+      "UpstreamPathTemplate": "/profesor/{id}",
+      "UpstreamHttpMethod": [ "GET", "POST" ]
+    }
+  ]
+}

@@ -1,0 +1,145 @@
+C:\code5\Microservicios_Nicolas\Microservicio_Nicolas_dotech\Api_Profesor\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\code5\Microservicios_Nicolas\Microservicio_Nicolas_dotech\Api_Profesor\bin\Debug\netcoreapp3.1\appsettings.json
+C:\code5\Microservicios_Nicolas\Microservicio_Nicolas_dotech\Api_Profesor\bin\Debug\netcoreapp3.1\Api_Profesor.exe
+C:\code5\Microservicios_Nicolas\Microservicio_Nicolas_dotech\Api_Profesor\bin\Debug\netcoreapp3.1\Api_Profesor.deps.json
+C:\code5\Microservicios_Nicolas\Microservicio_Nicolas_dotech\Api_Profesor\bin\Debug\netcoreapp3.1\Api_Profesor.runtimeconfig.json
+C:\code5\Microservicios_Nicolas\Microservicio_Nicolas_dotech\Api_Profesor\bin\Debug\netcoreapp3.1\Api_Profesor.runtimeconfig.dev.json
+C:\code5\Microservicios_Nicolas\Microservicio_Nicolas_dotech\Api_Profesor\bin\Debug\netcoreapp3.1\Api_Profesor.dll
+C:\code5\Microservicios_Nicolas\Microservicio_Nicolas_dotech\Api_Profesor\bin\Debug\netcoreapp3.1\Api_Profesor.pdb
+C:\code5\Microservicios_Nicolas\Microservicio_Nicolas_dotech\Api_Profesor\obj\Debug\netcoreapp3.1\Api_Profesor.AssemblyInfoInputs.cache
+C:\code5\Microservicios_Nicolas\Microservicio_Nicolas_dotech\Api_Profesor\obj\Debug\netcoreapp3.1\Api_Profesor.AssemblyInfo.cs
+C:\code5\Microservicios_Nicolas\Microservicio_Nicolas_dotech\Api_Profesor\obj\Debug\netcoreapp3.1\Api_Profesor.csproj.CoreCompileInputs.cache
+C:\code5\Microservicios_Nicolas\Microservicio_Nicolas_dotech\Api_Profesor\obj\Debug\netcoreapp3.1\Api_Profesor.MvcApplicationPartsAssemblyInfo.cache
+C:\code5\Microservicios_Nicolas\Microservicio_Nicolas_dotech\Api_Profesor\obj\Debug\netcoreapp3.1\staticwebassets\Api_Profesor.StaticWebAssets.Manifest.cache
+C:\code5\Microservicios_Nicolas\Microservicio_Nicolas_dotech\Api_Profesor\obj\Debug\netcoreapp3.1\staticwebassets\Api_Profesor.StaticWebAssets.xml
+C:\code5\Microservicios_Nicolas\Microservicio_Nicolas_dotech\Api_Profesor\obj\Debug\netcoreapp3.1\scopedcss\bundle\Api_Profesor.styles.css
+C:\code5\Microservicios_Nicolas\Microservicio_Nicolas_dotech\Api_Profesor\obj\Debug\netcoreapp3.1\Api_Profesor.RazorTargetAssemblyInfo.cache
+C:\code5\Microservicios_Nicolas\Microservicio_Nicolas_dotech\Api_Profesor\obj\Debug\netcoreapp3.1\Api_Profesor.dll
+C:\code5\Microservicios_Nicolas\Microservicio_Nicolas_dotech\Api_Profesor\obj\Debug\netcoreapp3.1\Api_Profesor.pdb
+C:\code5\Microservicios_Nicolas\Microservicio_Nicolas_dotech\Api_Profesor\obj\Debug\netcoreapp3.1\Api_Profesor.genruntimeconfig.cache
+C:\code5\Microservicios_Nicolas\Microservicio_Nicolas_dotech\Api_Profesor\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\code5\Microservicios_Nicolas\Microservicio_Nicolas_dotech\Api_Profesor\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\code5\Microservicios_Nicolas\Microservicio_Nicolas_dotech\Api_Profesor\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\code5\Microservicios_Nicolas\Microservicio_Nicolas_dotech\Api_Profesor\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\code5\Microservicios_Nicolas\Microservicio_Nicolas_dotech\Api_Profesor\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\code5\Microservicios_Nicolas\Microservicio_Nicolas_dotech\Api_Profesor\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\code5\Microservicios_Nicolas\Microservicio_Nicolas_dotech\Api_Profesor\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\code5\Microservicios_Nicolas\Microservicio_Nicolas_dotech\Api_Profesor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\code5\Microservicios_Nicolas\Microservicio_Nicolas_dotech\Api_Profesor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\code5\Microservicios_Nicolas\Microservicio_Nicolas_dotech\Api_Profesor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\code5\Microservicios_Nicolas\Microservicio_Nicolas_dotech\Api_Profesor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\code5\Microservicios_Nicolas\Microservicio_Nicolas_dotech\Api_Profesor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\code5\Microservicios_Nicolas\Microservicio_Nicolas_dotech\Api_Profesor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\code5\Microservicios_Nicolas\Microservicio_Nicolas_dotech\Api_Profesor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\code5\Microservicios_Nicolas\Microservicio_Nicolas_dotech\Api_Profesor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\code5\Microservicios_Nicolas\Microservicio_Nicolas_dotech\Api_Profesor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\code5\Microservicios_Nicolas\Microservicio_Nicolas_dotech\Api_Profesor\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\code5\Microservicios_Nicolas\Microservicio_Nicolas_dotech\Api_Profesor\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\code5\Microservicios_Nicolas\Microservicio_Nicolas_dotech\Api_Profesor\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\code5\Microservicios_Nicolas\Microservicio_Nicolas_dotech\Api_Profesor\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\code5\Microservicios_Nicolas\Microservicio_Nicolas_dotech\Api_Profesor\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\code5\Microservicios_Nicolas\Microservicio_Nicolas_dotech\Api_Profesor\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\code5\Microservicios_Nicolas\Microservicio_Nicolas_dotech\Api_Profesor\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\code5\Microservicios_Nicolas\Microservicio_Nicolas_dotech\Api_Profesor\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\code5\Microservicios_Nicolas\Microservicio_Nicolas_dotech\Api_Profesor\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\code5\Microservicios_Nicolas\Microservicio_Nicolas_dotech\Api_Profesor\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\code5\Microservicios_Nicolas\Microservicio_Nicolas_dotech\Api_Profesor\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\code5\Microservicios_Nicolas\Microservicio_Nicolas_dotech\Api_Profesor\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\code5\Microservicios_Nicolas\Microservicio_Nicolas_dotech\Api_Profesor\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\code5\Microservicios_Nicolas\Microservicio_Nicolas_dotech\Api_Profesor\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\code5\Microservicios_Nicolas\Microservicio_Nicolas_dotech\Api_Profesor\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\code5\Microservicios_Nicolas\Microservicio_Nicolas_dotech\Api_Profesor\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\code5\Microservicios_Nicolas\Microservicio_Nicolas_dotech\Api_Profesor\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\code5\Microservicios_Nicolas\Microservicio_Nicolas_dotech\Api_Profesor\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\code5\Microservicios_Nicolas\Microservicio_Nicolas_dotech\Api_Profesor\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\code5\Microservicios_Nicolas\Microservicio_Nicolas_dotech\Api_Profesor\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\code5\Microservicios_Nicolas\Microservicio_Nicolas_dotech\Api_Profesor\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\code5\Microservicios_Nicolas\Microservicio_Nicolas_dotech\Api_Profesor\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\code5\Microservicios_Nicolas\Microservicio_Nicolas_dotech\Api_Profesor\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\code5\Microservicios_Nicolas\Microservicio_Nicolas_dotech\Api_Profesor\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\code5\Microservicios_Nicolas\Microservicio_Nicolas_dotech\Api_Profesor\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\code5\Microservicios_Nicolas\Microservicio_Nicolas_dotech\Api_Profesor\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\code5\Microservicios_Nicolas\Microservicio_Nicolas_dotech\Api_Profesor\obj\Debug\netcoreapp3.1\Api_Profesor.csproj.CopyComplete
+C:\code5\Microservicios_Nicolas\Microservicio_Nicolas_dotech\Api_Profesor\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\code5\Microservicios_Nicolas\Microservicio_Nicolas_dotech\Api_Profesor\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\code5\Microservicios_Nicolas\Microservicio_Nicolas_dotech\Api_Profesor\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\code5\Microservicios_Nicolas\Microservicio_Nicolas_dotech\Api_Profesor\bin\Debug\netcoreapp3.1\FluentValidation.AspNetCore.dll
+C:\code5\Microservicios_Nicolas\Microservicio_Nicolas_dotech\Api_Profesor\bin\Debug\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
+C:\code5\Microservicios_Nicolas\Microservicio_Nicolas_dotech\Api_Profesor\bin\Debug\netcoreapp3.1\MediatR.dll
+C:\code5\Microservicios_Nicolas\Microservicio_Nicolas_dotech\Api_Profesor\bin\Debug\netcoreapp3.1\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\code5\Microservicios_Nicolas\Microservicio_Nicolas_dotech\Api_Profesor\obj\Debug\netcoreapp3.1\Api_Profesor.MvcApplicationPartsAssemblyInfo.cs
+C:\code5\Microservicios_Nicolas\Microservicio_Nicolas_dotech\Api_Profesor\obj\Debug\netcoreapp3.1\Api_Profesor.csprojAssemblyReference.cache
+C:\Users\Juampi Vasta\Documents\Microservicios\Microservicio_Nicolas_dotech\Api_Profesor\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Juampi Vasta\Documents\Microservicios\Microservicio_Nicolas_dotech\Api_Profesor\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Juampi Vasta\Documents\Microservicios\Microservicio_Nicolas_dotech\Api_Profesor\bin\Debug\netcoreapp3.1\Api_Profesor.exe
+C:\Users\Juampi Vasta\Documents\Microservicios\Microservicio_Nicolas_dotech\Api_Profesor\bin\Debug\netcoreapp3.1\Api_Profesor.deps.json
+C:\Users\Juampi Vasta\Documents\Microservicios\Microservicio_Nicolas_dotech\Api_Profesor\bin\Debug\netcoreapp3.1\Api_Profesor.runtimeconfig.json
+C:\Users\Juampi Vasta\Documents\Microservicios\Microservicio_Nicolas_dotech\Api_Profesor\bin\Debug\netcoreapp3.1\Api_Profesor.runtimeconfig.dev.json
+C:\Users\Juampi Vasta\Documents\Microservicios\Microservicio_Nicolas_dotech\Api_Profesor\bin\Debug\netcoreapp3.1\Api_Profesor.dll
+C:\Users\Juampi Vasta\Documents\Microservicios\Microservicio_Nicolas_dotech\Api_Profesor\bin\Debug\netcoreapp3.1\Api_Profesor.pdb
+C:\Users\Juampi Vasta\Documents\Microservicios\Microservicio_Nicolas_dotech\Api_Profesor\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\Juampi Vasta\Documents\Microservicios\Microservicio_Nicolas_dotech\Api_Profesor\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Juampi Vasta\Documents\Microservicios\Microservicio_Nicolas_dotech\Api_Profesor\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Users\Juampi Vasta\Documents\Microservicios\Microservicio_Nicolas_dotech\Api_Profesor\bin\Debug\netcoreapp3.1\FluentValidation.AspNetCore.dll
+C:\Users\Juampi Vasta\Documents\Microservicios\Microservicio_Nicolas_dotech\Api_Profesor\bin\Debug\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\Juampi Vasta\Documents\Microservicios\Microservicio_Nicolas_dotech\Api_Profesor\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\Juampi Vasta\Documents\Microservicios\Microservicio_Nicolas_dotech\Api_Profesor\bin\Debug\netcoreapp3.1\MediatR.dll
+C:\Users\Juampi Vasta\Documents\Microservicios\Microservicio_Nicolas_dotech\Api_Profesor\bin\Debug\netcoreapp3.1\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Juampi Vasta\Documents\Microservicios\Microservicio_Nicolas_dotech\Api_Profesor\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Juampi Vasta\Documents\Microservicios\Microservicio_Nicolas_dotech\Api_Profesor\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Juampi Vasta\Documents\Microservicios\Microservicio_Nicolas_dotech\Api_Profesor\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Juampi Vasta\Documents\Microservicios\Microservicio_Nicolas_dotech\Api_Profesor\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Juampi Vasta\Documents\Microservicios\Microservicio_Nicolas_dotech\Api_Profesor\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Juampi Vasta\Documents\Microservicios\Microservicio_Nicolas_dotech\Api_Profesor\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Juampi Vasta\Documents\Microservicios\Microservicio_Nicolas_dotech\Api_Profesor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Juampi Vasta\Documents\Microservicios\Microservicio_Nicolas_dotech\Api_Profesor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Juampi Vasta\Documents\Microservicios\Microservicio_Nicolas_dotech\Api_Profesor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Juampi Vasta\Documents\Microservicios\Microservicio_Nicolas_dotech\Api_Profesor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Juampi Vasta\Documents\Microservicios\Microservicio_Nicolas_dotech\Api_Profesor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Juampi Vasta\Documents\Microservicios\Microservicio_Nicolas_dotech\Api_Profesor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Juampi Vasta\Documents\Microservicios\Microservicio_Nicolas_dotech\Api_Profesor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Juampi Vasta\Documents\Microservicios\Microservicio_Nicolas_dotech\Api_Profesor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Juampi Vasta\Documents\Microservicios\Microservicio_Nicolas_dotech\Api_Profesor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Juampi Vasta\Documents\Microservicios\Microservicio_Nicolas_dotech\Api_Profesor\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Juampi Vasta\Documents\Microservicios\Microservicio_Nicolas_dotech\Api_Profesor\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Juampi Vasta\Documents\Microservicios\Microservicio_Nicolas_dotech\Api_Profesor\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Juampi Vasta\Documents\Microservicios\Microservicio_Nicolas_dotech\Api_Profesor\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Juampi Vasta\Documents\Microservicios\Microservicio_Nicolas_dotech\Api_Profesor\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Juampi Vasta\Documents\Microservicios\Microservicio_Nicolas_dotech\Api_Profesor\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Juampi Vasta\Documents\Microservicios\Microservicio_Nicolas_dotech\Api_Profesor\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Juampi Vasta\Documents\Microservicios\Microservicio_Nicolas_dotech\Api_Profesor\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Juampi Vasta\Documents\Microservicios\Microservicio_Nicolas_dotech\Api_Profesor\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Juampi Vasta\Documents\Microservicios\Microservicio_Nicolas_dotech\Api_Profesor\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Juampi Vasta\Documents\Microservicios\Microservicio_Nicolas_dotech\Api_Profesor\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Juampi Vasta\Documents\Microservicios\Microservicio_Nicolas_dotech\Api_Profesor\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Juampi Vasta\Documents\Microservicios\Microservicio_Nicolas_dotech\Api_Profesor\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Juampi Vasta\Documents\Microservicios\Microservicio_Nicolas_dotech\Api_Profesor\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Juampi Vasta\Documents\Microservicios\Microservicio_Nicolas_dotech\Api_Profesor\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Juampi Vasta\Documents\Microservicios\Microservicio_Nicolas_dotech\Api_Profesor\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Juampi Vasta\Documents\Microservicios\Microservicio_Nicolas_dotech\Api_Profesor\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Juampi Vasta\Documents\Microservicios\Microservicio_Nicolas_dotech\Api_Profesor\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Juampi Vasta\Documents\Microservicios\Microservicio_Nicolas_dotech\Api_Profesor\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Juampi Vasta\Documents\Microservicios\Microservicio_Nicolas_dotech\Api_Profesor\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Juampi Vasta\Documents\Microservicios\Microservicio_Nicolas_dotech\Api_Profesor\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Juampi Vasta\Documents\Microservicios\Microservicio_Nicolas_dotech\Api_Profesor\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Juampi Vasta\Documents\Microservicios\Microservicio_Nicolas_dotech\Api_Profesor\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Juampi Vasta\Documents\Microservicios\Microservicio_Nicolas_dotech\Api_Profesor\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Juampi Vasta\Documents\Microservicios\Microservicio_Nicolas_dotech\Api_Profesor\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Juampi Vasta\Documents\Microservicios\Microservicio_Nicolas_dotech\Api_Profesor\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Juampi Vasta\Documents\Microservicios\Microservicio_Nicolas_dotech\Api_Profesor\obj\Debug\netcoreapp3.1\Api_Profesor.csprojAssemblyReference.cache
+C:\Users\Juampi Vasta\Documents\Microservicios\Microservicio_Nicolas_dotech\Api_Profesor\obj\Debug\netcoreapp3.1\Api_Profesor.AssemblyInfoInputs.cache
+C:\Users\Juampi Vasta\Documents\Microservicios\Microservicio_Nicolas_dotech\Api_Profesor\obj\Debug\netcoreapp3.1\Api_Profesor.AssemblyInfo.cs
+C:\Users\Juampi Vasta\Documents\Microservicios\Microservicio_Nicolas_dotech\Api_Profesor\obj\Debug\netcoreapp3.1\Api_Profesor.csproj.CoreCompileInputs.cache
+C:\Users\Juampi Vasta\Documents\Microservicios\Microservicio_Nicolas_dotech\Api_Profesor\obj\Debug\netcoreapp3.1\Api_Profesor.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Juampi Vasta\Documents\Microservicios\Microservicio_Nicolas_dotech\Api_Profesor\obj\Debug\netcoreapp3.1\Api_Profesor.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Juampi Vasta\Documents\Microservicios\Microservicio_Nicolas_dotech\Api_Profesor\obj\Debug\netcoreapp3.1\staticwebassets\Api_Profesor.StaticWebAssets.Manifest.cache
+C:\Users\Juampi Vasta\Documents\Microservicios\Microservicio_Nicolas_dotech\Api_Profesor\obj\Debug\netcoreapp3.1\staticwebassets\Api_Profesor.StaticWebAssets.xml
+C:\Users\Juampi Vasta\Documents\Microservicios\Microservicio_Nicolas_dotech\Api_Profesor\obj\Debug\netcoreapp3.1\scopedcss\bundle\Api_Profesor.styles.css
+C:\Users\Juampi Vasta\Documents\Microservicios\Microservicio_Nicolas_dotech\Api_Profesor\obj\Debug\netcoreapp3.1\Api_Profesor.RazorTargetAssemblyInfo.cache
+C:\Users\Juampi Vasta\Documents\Microservicios\Microservicio_Nicolas_dotech\Api_Profesor\obj\Debug\netcoreapp3.1\Api_Profesor.csproj.CopyComplete
+C:\Users\Juampi Vasta\Documents\Microservicios\Microservicio_Nicolas_dotech\Api_Profesor\obj\Debug\netcoreapp3.1\Api_Profesor.dll
+C:\Users\Juampi Vasta\Documents\Microservicios\Microservicio_Nicolas_dotech\Api_Profesor\obj\Debug\netcoreapp3.1\Api_Profesor.pdb
+C:\Users\Juampi Vasta\Documents\Microservicios\Microservicio_Nicolas_dotech\Api_Profesor\obj\Debug\netcoreapp3.1\Api_Profesor.genruntimeconfig.cache
+C:\Users\Juampi Vasta\Documents\Microservicios\Microservicio_Nicolas_dotech\Api_Profesor\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Juampi Vasta\Documents\Microservicios\Microservicio_Nicolas_dotech\Api_Profesor\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Juampi Vasta\Documents\Microservicios\Microservicio_Nicolas_dotech\Api_Profesor\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
